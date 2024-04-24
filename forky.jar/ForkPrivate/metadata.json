@@ -1,0 +1,8 @@
+{
+  "name": "ForkPrivate",
+  "description": "Best 1.8.9 Singleplayer Mod!",
+  "author": "fork",
+  "entry": "index.js",
+  "version": "1.0.0",
+  "requires": [ "Elementa" , "PogData", "RichPresence", "requestV2"]
+}
