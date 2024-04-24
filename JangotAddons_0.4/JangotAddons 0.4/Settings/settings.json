@@ -1,0 +1,14 @@
+{
+    "Features": {
+        "Cloak Disabler": {
+            "Delay": 9000,
+            "toggle": false
+        },
+        "Enchantment Table QOL": {
+            "Delay": 0,
+            "BottleType": "Grand Experience Bottle",
+            "Amount": "10",
+            "toggle": false
+        }
+    }
+}

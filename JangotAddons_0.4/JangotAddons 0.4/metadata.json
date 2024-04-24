@@ -1,0 +1,9 @@
+{
+    "$schema": "../CTAutocomplete/schema.json",
+    "name": "Jangot's Cloak Disabler",
+    "description": "Forked from my Chat Macros Mod /cloakdelay to use.",
+    "version": "1.0.0",
+    "author": "Jangot",
+    "entry": "index.js",
+    "requires": ["Elementa","PogData","RenderLib"]
+}
