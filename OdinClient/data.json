@@ -1,0 +1,105 @@
+{
+    "auto": {
+        "x": 28.5,
+        "y": 59.5,
+        "dropDown": true,
+        "options": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "titles": [
+            "Auto Ready",
+            "Auto Mort",
+            "Auto Ult",
+            "Auto Shield",
+            "Auto Wish",
+            "Auto Mask",
+            "Auto Edrag",
+            "Auto Leap"
+        ]
+    },
+    "legit": {
+        "x": 199,
+        "y": 30,
+        "dropDown": true,
+        "options": [
+            false,
+            false,
+            false,
+            false,
+            true,
+            false
+        ],
+        "titles": [
+            "Party cmds",
+            "Guild cmds",
+            "Guild GM",
+            "Dragons Boxes",
+            "Dragon Timer",
+            "Power Display"
+        ]
+    },
+    "nether": {
+        "x": 420,
+        "y": 20,
+        "dropDown": true,
+        "options": [
+            false,
+            true,
+            false,
+            false
+        ],
+        "titles": [
+            "Broken Hype",
+            "Flare Timer",
+            "Vanq Notifier",
+            "Kuudra Alerts"
+        ]
+    },
+    "qol": {
+        "x": 614.5,
+        "y": 28.5,
+        "dropDown": true,
+        "options": [
+            false,
+            false,
+            false,
+            true,
+            true,
+            false
+        ],
+        "titles": [
+            "Relic Aura",
+            "Item Macros",
+            "Terminator AC",
+            "Cookie Clicker",
+            "ESP",
+            "FUCK DIORITE"
+        ]
+    },
+    "boss": {
+        "x": 820,
+        "y": 20,
+        "dropDown": true,
+        "options": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "titles": [
+            "Coming Soon!",
+            "Coming Soon!",
+            "Coming Soon!",
+            "Coming Soon!",
+            "Coming Soon!"
+        ]
+    }
+}
